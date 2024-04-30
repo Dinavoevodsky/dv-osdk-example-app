@@ -1,7 +1,7 @@
 import React from "react";
 import { createRoot } from "react-dom/client";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
-import { HomePage } from "./pages/home";
+import { HomePage } from "./pages/home2";
 import { AuthCallback } from "./pages/authCallback";
 import { LoginPage } from "./pages/login";
 import { AuthenticatedRoute } from "./utils/authenticatedRoute";

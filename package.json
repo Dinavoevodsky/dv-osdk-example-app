@@ -18,7 +18,10 @@
         "lint-fix:stylelint": "stylelint 'src/**/*.scss' --fix"
     },
     "dependencies": {
+        "@dv-osdk-example-app/sdk": "^0.1.0",
+        "@dv-osdk-revised-app/sdk": "^0.1.0",
         "@ontology-starter/sdk": "file:./sdk/sdk-0.14.0.tgz",
+        "google-map-react": "^2.2.1",
         "querystring-es3": "^0.2.1",
         "react": "^18.2.0",
         "react-dom": "^18.2.0",
